@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidRetrofiteWeaterAPI</string>
+    <string name="key">2feae82572b40c090e304bdbc1ad1c7b</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Некий текст</string>
+    <string name="city">Город</string>
+    <string name="temp">Температура</string>
+    <string name="direct">Направление ветра</string>
+    <string name="speed">Скорость ветра</string>
+    <string name="pressure">Атмосферное давление</string>
+    <string name="get_data">Получить данные</string>
+</resources>
